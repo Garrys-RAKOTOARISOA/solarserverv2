@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4N+YR3GEN7MysFZBNxlY+4USOKsHy0GSd7PJXyKNRkeMI+iy2qO35e+UBl7Jlj2YenuISIalNLfo7w5XoNMajQ==",
+  "dgSpecHash": "0IgZagmm5TzX025Wk10ygIap/Fyrls6+/7zSMnvHWAhUz9mkWoumCnRribR/BPgbKYdoJBuvq1oMQ8LKechbYw==",
   "success": true,
-  "projectFilePath": "D:\\grizy7\\sdk6api\\SOLARASPAPI2\\SOLARASPAPI2\\SOLARASPAPI2.csproj",
+  "projectFilePath": "D:\\grizy7\\solarserverv2\\SOLARASPAPI2\\SOLARASPAPI2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STEVEN\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\STEVEN\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
+    "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
     "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0\\microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\STEVEN\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",

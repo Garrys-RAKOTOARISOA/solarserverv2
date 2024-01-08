@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\grizy7\\sdk6api\\SOLARASPAPI2\\SOLARASPAPI2\\SOLARASPAPI2.csproj": {}
+    "D:\\grizy7\\solarserverv2\\SOLARASPAPI2\\SOLARASPAPI2.csproj": {}
   },
   "projects": {
-    "D:\\grizy7\\sdk6api\\SOLARASPAPI2\\SOLARASPAPI2\\SOLARASPAPI2.csproj": {
+    "D:\\grizy7\\solarserverv2\\SOLARASPAPI2\\SOLARASPAPI2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\grizy7\\sdk6api\\SOLARASPAPI2\\SOLARASPAPI2\\SOLARASPAPI2.csproj",
+        "projectUniqueName": "D:\\grizy7\\solarserverv2\\SOLARASPAPI2\\SOLARASPAPI2.csproj",
         "projectName": "SOLARASPAPI2",
-        "projectPath": "D:\\grizy7\\sdk6api\\SOLARASPAPI2\\SOLARASPAPI2\\SOLARASPAPI2.csproj",
+        "projectPath": "D:\\grizy7\\solarserverv2\\SOLARASPAPI2\\SOLARASPAPI2.csproj",
         "packagesPath": "C:\\Users\\STEVEN\\.nuget\\packages\\",
-        "outputPath": "D:\\grizy7\\sdk6api\\SOLARASPAPI2\\SOLARASPAPI2\\obj\\",
+        "outputPath": "D:\\grizy7\\solarserverv2\\SOLARASPAPI2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\STEVEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,6 +53,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.14, )"
             },
             "Microsoft.Identity.Web": {
               "target": "Package",
